@@ -5,4 +5,8 @@ class Student < User
   def initialize
     @@knowledge = []
   end
+
+  def self.knowledge
+    @@knowledge
+  end
 end
