@@ -1,7 +1,7 @@
 require_relative "./user.rb"
 class Student < User
 
-    KNOWLEDGE = []
+    KNOWLEDGE = arr.new
   def new
 
   end
